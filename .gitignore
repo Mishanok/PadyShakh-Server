@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Manually created
+*.swp
+*.swa
+*.tmp
+bin/
+build_dir/
+*.orig
